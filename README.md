@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nihardwivedi. I'm a Comp Eng grad from Boston University.
+- 👋 Hi, I’m @nihardwivedi. I'm a Comp Eng grad from Boston University
 - 👀 I’m interested in Infrastructure and DevOps
 - 🌱 I’m currently learning Go and Kubernetes, and will learn Rust and Lisp in the near future
 - 💞️ I’m looking to collaborate on finding the best resources to learn a particular topic in Computer Science
