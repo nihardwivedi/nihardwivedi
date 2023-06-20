@@ -2,6 +2,6 @@
   - MS Comp Eng grad from BU
   - interested in Infrastructure and DevOps
   - currently learning Go and Kubernetes
-- I'm most likely browsing [HN](https://news.ycombinator.com/) right now
+- I'm most likely browsing [Hacker News](https://news.ycombinator.com/) right now
 - 📫 How to reach me - Email: <ndwivedi@bu.edu>
 - 🌐 <https://www.nihardwivedi.com/>
