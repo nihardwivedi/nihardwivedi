@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nihardwivedi. I'm a Comp Eng grad from Boston University
-- 👀 I’m interested in Infrastructure and DevOps
-- 🌱 I’m currently learning Go and Kubernetes, and will learn Rust and Lisp in the near future
-- 💞️ I’m looking to collaborate on finding the best resources to learn a particular topic in Computer Science
-- 📫 How to reach me - Email: <ndwivedi@bu.edu> or [Twitter](https://twitter.com/2steps2doors)
+- Hi, I’m @nihardwivedi. I'm currently a Senior SRE at a cybersecurity scaleup
+  - MS Comp Eng grad from BU
+  - interested in Infrastructure and DevOps
+  - currently learning Go and Kubernetes
+- I'm most likely browsing HN <news.ycombinator.com> right now
+- 📫 How to reach me - Email: <ndwivedi@bu.edu>
 - 🌐 <https://www.nihardwivedi.com/>
