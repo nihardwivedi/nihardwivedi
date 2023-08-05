@@ -1,5 +1,5 @@
 - Hi, I’m Nihar. I'm currently a Senior SRE at a [cybersecurity scaleup](https://www.securonix.com)
-  - interested in Infrastructure and DevOps
+  - interested in Infrastructure/Distributed systems engineering
   - currently learning Go and Kubernetes
   - Proficient in Python and somewhat proficient in Java
   - MS Comp Eng grad from BU
