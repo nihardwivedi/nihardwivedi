@@ -3,7 +3,7 @@
   - currently learning Go and Kubernetes
   - Attending Gophercon 2023 in San Diego, say hi if you're also attending!
   - Proficient in Python and somewhat proficient in Java
-  - MS Comp Eng grad from BU
+  - MS Comp Eng grad from Boston University (Jan 2021)
 - I'm most likely browsing [Hacker News](https://news.ycombinator.com/) right now
 - 📫 How to reach me - Email: <ndwivedi@bu.edu>
 - 🌐 <https://www.nihardwivedi.com/>
