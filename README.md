@@ -1,4 +1,4 @@
-- Hi, I’m Nihar. I'm currently looking for my next main quest! ~~a Senior SRE at a [cybersecurity scaleup]~~
+- Hi, I’m Nihar. I'm currently on the lookout for a new adventure! ~~a Senior SRE at a [cybersecurity scaleup]~~
   - interested in infrastructure / distributed systems engineering
   - Proficient in Python and Java
   - Currently learning Go and K8s
