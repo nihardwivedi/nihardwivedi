@@ -1,9 +1,9 @@
-- Hi, I’m Nihar. I'm currently a Senior SRE at a [cybersecurity scaleup](https://www.securonix.com)
-  - interested in Infrastructure/Distributed systems engineering
-  - currently learning Go and Kubernetes
-  - Proficient in Python and somewhat proficient in Java
-  - MS Comp Eng grad from Boston University (Jan 2021)
-- I'm most likely browsing [Hacker News](https://news.ycombinator.com/) right now
+- Hi, I’m Nihar. I'm currently looking for my next main quest! ~~a Senior SRE at a [cybersecurity scaleup]~~
+  - interested in infrastructure / distributed systems engineering
+  - Proficient in Python and Java
+  - Currently learning Go and K8s
+  - MS Comp Eng grad from Boston University
+- I'm most likely browsing [Hacker News](https://news.ycombinator.com/) right now or reading a systems paper
 - Attended Gophercon 2023 in San Diego
 - 📫 How to reach me - Email: <ndwivedi@bu.edu>
-- 🌐 <https://www.nihardwivedi.com/>
+- 🌐 Social can be found on <https://www.nihardwivedi.com/>
