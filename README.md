@@ -1,5 +1,5 @@
 - Hi, I’m Nihar. I'm currently on the lookout for a new adventure! ~~a Senior SRE at a [cybersecurity scaleup]~~
-  - interested in infrastructure / distributed systems engineering
+  - interested in infrastructure / distributed systems / backend engineering
   - Proficient in Python and Java
   - Currently learning Go and K8s
   - MS Comp Eng grad from Boston University
