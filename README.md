@@ -1,4 +1,4 @@
-- Hi, I’m Nihar. I'm currently a Senior SWE @ Sifive.
+- Hi, I’m Nihar. I'm currently a Senior Systems SDE @ Sifive.
   - interested in infrastructure / distributed systems / backend engineering
   - Proficient in Python, Go and Rust
   - MS ECE grad from Boston University
