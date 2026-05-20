@@ -1,6 +1,6 @@
 - Hi, I’m Nihar. I'm currently a Senior SWE @ Sifive.
   - interested in infrastructure / distributed systems / backend engineering
-  - Proficient in Python and Go
+  - Proficient in Python, Go and Rust
   - MS ECE grad from Boston University
 - I'm most likely browsing [Hacker News](https://news.ycombinator.com/) right now or reading a systems paper
 - 📫 How to reach me - Email: <ndwivedi@bu.edu>
